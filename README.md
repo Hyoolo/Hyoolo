@@ -1,14 +1,3 @@
-<style>
-  @font-face{
-      font-family: Minecraft;
-      src: url("https://github.com/IdreesInc/Minecraft-Font/blob/main/Minecraft.otf");
-    }
-  p{
-    font-family: Minecraft;
-  }
-</style>
-
-<p> Hyoolo</p>
 
 ( = ⩊ = )
 
