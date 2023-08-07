@@ -1,5 +1,3 @@
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/649709a9d99c9d6731929cac?variant=dark" alt="roadmap.sh"/></a>
-
 <!--
 **Hyoolo/Hyoolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
